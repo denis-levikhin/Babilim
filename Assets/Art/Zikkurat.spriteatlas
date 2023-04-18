@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zikkurat
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b9dc62009dbc94e43b63e8b8aa1d8476, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7f9aea80685986940bf8a0ad3693967b, type: 3}
+  - {fileID: 21300000, guid: 1d1eb0a07f9773042a20faba00e3a226, type: 3}
+  - {fileID: 21300000, guid: 2ad064c08a608dd4c9bbc9fb7f3d8035, type: 3}
+  - {fileID: 21300000, guid: 9aed9a214f023f04a8c4325fa43a9422, type: 3}
+  - {fileID: 21300000, guid: 453d806182b8b6a4fab102f0cc75d24d, type: 3}
+  - {fileID: 21300000, guid: ad607e6166cb31b4e9d8d2dedf9144d9, type: 3}
+  - {fileID: 21300000, guid: 012894814d8ddd544bfcfd5595129932, type: 3}
+  - {fileID: 21300000, guid: a115160229b64024aa1a2c76be254dc9, type: 3}
+  - {fileID: 21300000, guid: c662b31271bc90841ad62f8e626efb03, type: 3}
+  - {fileID: 21300000, guid: 2e519c1268068d64fb509159151578ab, type: 3}
+  - {fileID: 21300000, guid: 3a9f2442bfe93274fb2ccf611407217f, type: 3}
+  - {fileID: 21300000, guid: cbc77e720b0339548ab71c3487cb7c58, type: 3}
+  - {fileID: 21300000, guid: 393ae5b256c3a1a429bf96a516665374, type: 3}
+  - {fileID: 21300000, guid: 93e594d2f4746e04c980a7cad2e4715c, type: 3}
+  - {fileID: 21300000, guid: 34f77d534c85ffe45a55b09ea574a626, type: 3}
+  - {fileID: 21300000, guid: 0d461f630ae49ba4489b04c1accf15a9, type: 3}
+  - {fileID: 21300000, guid: 7449d59374a3a5640a476ff8f0b4ba79, type: 3}
+  - {fileID: 21300000, guid: d82b0bc3f925b6e41883381fde25270c, type: 3}
+  - {fileID: 21300000, guid: 08f4faf324997a84388b1b2979283c96, type: 3}
+  - {fileID: 21300000, guid: 6be6053468642964c80032df375d6a68, type: 3}
+  - {fileID: 21300000, guid: 3ed0bd44294eb3c4e91ad6339f47e7c9, type: 3}
+  - {fileID: 21300000, guid: e1dc66a438d37b84aace0976075f7b25, type: 3}
+  - {fileID: 21300000, guid: 882beb55465944c4f91102b31ea5f955, type: 3}
+  - {fileID: 21300000, guid: 499776a52b7cd824ab2f2b78d5e01bc7, type: 3}
+  - {fileID: 21300000, guid: 13e4dea51f370c342967469d98f5f1bd, type: 3}
+  - {fileID: 21300000, guid: aff49fa59801fcc4fba5b6cd9f02b2a0, type: 3}
+  - {fileID: 21300000, guid: 941644b5c9505764398630c48ad6c23e, type: 3}
+  - {fileID: 21300000, guid: 497f36f58bfea6d41be6158fa36aadb1, type: 3}
+  - {fileID: 21300000, guid: 8d339af5e0b538a4c88982ac8d39d5b8, type: 3}
+  - {fileID: 21300000, guid: ee479256331d8be4ab53d90d5e517535, type: 3}
+  - {fileID: 21300000, guid: def80a56c7aa0434c9b4e730dd391dcd, type: 3}
+  - {fileID: 21300000, guid: 53b772f75f966504aa66e18c7c475758, type: 3}
+  - {fileID: 21300000, guid: fbba18688eed1e44bb57386a947c918a, type: 3}
+  - {fileID: 21300000, guid: 39d82a888ee794f4f8e9b4f315a583b7, type: 3}
+  - {fileID: 21300000, guid: f786aa59826a5704ea1dd82a2c8570c3, type: 3}
+  - {fileID: 21300000, guid: 5ad2596921d2c654a8bb25bcead18941, type: 3}
+  - {fileID: 21300000, guid: 3fb4c66a1ebd88c48bdf362446e159f2, type: 3}
+  - {fileID: 21300000, guid: e3ca508a7f235934b885262be414f3d3, type: 3}
+  - {fileID: 21300000, guid: bd376d8a374934844a99171e8033fd9e, type: 3}
+  - {fileID: 21300000, guid: cda17fda0afde8d4a89d29e6acae3820, type: 3}
+  - {fileID: 21300000, guid: c95d982bcda060d47959631128aea2ad, type: 3}
+  - {fileID: 21300000, guid: e66aac4b3d316224d9ef92e172954a15, type: 3}
+  - {fileID: 21300000, guid: 4851c05ba8b072b4c99e82ae9badb693, type: 3}
+  - {fileID: 21300000, guid: fb53295b1fe890d48abaad431016f0d4, type: 3}
+  - {fileID: 21300000, guid: e43d0a6bc3b0e824798cb4fd9a8f454c, type: 3}
+  - {fileID: 21300000, guid: 9626504c6f68206499988dd0e04f3c17, type: 3}
+  - {fileID: 21300000, guid: f1e020acaafd67143b7071e863c00116, type: 3}
+  - {fileID: 21300000, guid: e101b0bcacffefd4383211ddd4d7c0ba, type: 3}
+  - {fileID: 21300000, guid: 293ad1cc571295b4e9ef3c85af9388c2, type: 3}
+  - {fileID: 21300000, guid: 66a78c4d11224084ebc89a8f01cf0d57, type: 3}
+  - {fileID: 21300000, guid: f907d36d6a8edfa42b81451689d88a2d, type: 3}
+  - {fileID: 21300000, guid: ac23649dc51f00e46bd4f4e52df7a4ae, type: 3}
+  - {fileID: 21300000, guid: 648dbbbdfe0046847871b1b31659a54f, type: 3}
+  - {fileID: 21300000, guid: be9e21ed2483a704d96df607246fef51, type: 3}
+  - {fileID: 21300000, guid: 2d954ded0fbce354cb8c256ecb299d2d, type: 3}
+  - {fileID: 21300000, guid: 104d0efd5ba93494db00fd2a2afe9991, type: 3}
+  - {fileID: 21300000, guid: f1da5a0e531350848aab2b67a6547660, type: 3}
+  - {fileID: 21300000, guid: 2409051ee886cd84ba73d786a4a29a82, type: 3}
+  - {fileID: 21300000, guid: 626b5f5ea3753a844a2b63af4f673d73, type: 3}
+  - {fileID: 21300000, guid: 74982c8ecd6ff2441aaec3233c57e732, type: 3}
+  - {fileID: 21300000, guid: 0dcc7daed6e3af445a5577f70235acfe, type: 3}
+  - {fileID: 21300000, guid: 7a2b95de7e96dcb498c7a30060aa5022, type: 3}
+  - {fileID: 21300000, guid: 9dce4ede91f826e4ab7068177b8b49ff, type: 3}
+  - {fileID: 21300000, guid: 75054d0fc622f9f48a190f920a1c3482, type: 3}
+  - {fileID: 21300000, guid: eb4f2b8f430b62843bc48be1afef3b0e, type: 3}
+  - {fileID: 21300000, guid: da9faf8f93bdb8a42ab46a55e72d81e9, type: 3}
+  - {fileID: 21300000, guid: 0a2097effdbce1b49bd21389c6091b2e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - blue_geometric_7.1
+  - block-blue128x128
+  - damaged-block-mirrored128x128
+  - geometric_1.1
+  - blue_geometric_4.3
+  - blue_geometric_5.1
+  - block128x128-1
+  - vase
+  - ruins-large
+  - geometric_1.2
+  - blue_geometric_1.3
+  - geometrik_4.3
+  - geometrik_3.1
+  - geometric_2.3
+  - block128x128-back-mirrored
+  - ruins-pillar
+  - block128x128-2
+  - geometrik_6.2
+  - blue_geometric_5.2
+  - damaged-block128x128
+  - geometrik_5.2
+  - geometrik_3.2
+  - blue_geometric_4.2
+  - geometrik_5.1
+  - ruins-wall2
+  - geometric_2.1
+  - blue_geometric_6.3
+  - blue_geometric_7.2
+  - ruins-small4
+  - info128x186
+  - blue_geometric_3.1
+  - geometric_1.3
+  - ruins-wall1
+  - ruins-small3
+  - ruins-small1
+  - geometrik_3.3
+  - blue_geometric_2.2
+  - pers
+  - block-teleport128x128
+  - block128x128-corner
+  - blue_geometric_5.3
+  - blue_geometric_3.3
+  - geometrik_6.3
+  - geometrik_7.1
+  - blue_geometric_2.3
+  - block128x128
+  - blue_geometric_7.3
+  - blue_geometric_2.1
+  - geometrik_7.2
+  - geometrik_4.2
+  - geometric_2.2
+  - ruins-small2
+  - blue_geometric_6.2
+  - geometrik_7.3
+  - block128x128-back
+  - lionbull
+  - blue_geometric_3.2
+  - blue_geometric_1.2
+  - vase
+  - blue_geometric_1.1
+  - geometrik_6.1
+  - blue_geometric_6.1
+  - geometrik_5.3
+  - info-mirrored128x186
+  - pers2
+  - geometrik_4.1
+  - blue_geometric_4.1
+  m_RenderDataMap: {}
+  m_Tag: Zikkurat
+  m_IsVariant: 0
